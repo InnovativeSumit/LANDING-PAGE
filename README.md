@@ -15,6 +15,10 @@ The main goal was to apply core front-end skills to create a fully functional la
 
 ## 📸 Screenshots
 
+Here's a preview of the site:
+
+<p align="center">  <img src="https://github.com/user-attachments/assets/b34a3328-753f-42ee-ae98-cd424f25ab1c" alt="Screenshot 1" width="920" height="520" /> </p>
+
 
 ## 🛠️ Tech Stack
 
