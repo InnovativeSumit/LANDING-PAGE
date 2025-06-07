@@ -9,7 +9,9 @@ This was developed as part of a **Web Development Internship Task by [Oasis Info
 This project demonstrates a modern, responsive, and visually appealing landing page designed from scratch.  
 The main goal was to apply core front-end skills to create a fully functional layout that mimics a professional landing experience.
 
+## 🚀 Live Demo
 
+🔗  Try it live now:- [SLIDEBAR-4]()
 
 ## 📸 Screenshots
 
@@ -31,10 +33,16 @@ The main goal was to apply core front-end skills to create a fully functional la
 ✅ Custom fonts and color palette
 
 
-##📚 Learning Outcomes
+## 📚 Learning Outcomes
  - Through this task, I was able to:
  - Deepen my understanding of semantic HTML
  - Practice writing modular, maintainable CSS
  - Improve responsiveness using Flexbox and media queries
  - Polish my UI/UX design skills
+
+## 🌟 Let's Connect
+
+I'm passionate about collaborating on innovative projects and sharing knowledge about coding, design, robotics, and AI. Let's build something amazing together!  
+
+ [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://www.instagram.com/sumittech_360)  [![YouTube](https://img.icons8.com/fluency/48/youtube-play.png)](https://youtube.com/channel/UCiPxbNaC7dloVut6Jc5xHIQ)  [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)  [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339)
 
