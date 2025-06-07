@@ -11,7 +11,7 @@ The main goal was to apply core front-end skills to create a fully functional la
 
 ## 🚀 Live Demo
 
-🔗  Try it live now:- [SLIDEBAR-4]()
+🔗  Try it live now:- [SLIDEBAR-4](https://innovativesumit.github.io/LANDING-PAGE/)
 
 ## 📸 Screenshots
 
